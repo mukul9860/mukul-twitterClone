@@ -1,4 +1,4 @@
-import { TweetsList } from './Tweets';
+import { TweetComp } from './Tweets';
 
 
 
@@ -9,7 +9,7 @@ function App() {
     <div className="App">
       <h2>Welcome to Mukul Twitter App</h2>
       <div>
-        <TweetsList />
+        <TweetComp />
       </div>
     </div>
   );
